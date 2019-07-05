@@ -1,2 +1,4 @@
-# lucky-number
-get a random number
+# common utils
+
+## uuid
+
